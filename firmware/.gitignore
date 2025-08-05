@@ -1,4 +1,4 @@
 .pio
-*.bak
 .ccls
 .cache
+compile_commands*
